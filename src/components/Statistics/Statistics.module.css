@@ -1,0 +1,10 @@
+.title{
+
+justify-content: center;
+align-items: center;
+}
+.stat_list{
+    list-style: none;
+    display: flex;
+    gap: 15px;
+}
